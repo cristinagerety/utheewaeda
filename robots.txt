@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaichahr.mpdaugherty.com/sitemap.xml
